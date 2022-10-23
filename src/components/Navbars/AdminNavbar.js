@@ -72,7 +72,7 @@ const AdminNavbar = () => {
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <a className="link-mask" href="notifications.html"></a>
+                                                <a className="link-mask" href="#"></a>
                                             </div>
                                             <div className="item p-3">
                                                 <div className="row gx-2 justify-content-between align-items-center">
